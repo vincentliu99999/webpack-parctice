@@ -18,3 +18,8 @@ npx webpack
 touch webpack.config.js
 npx webpack --config webpack.config.js 
 ```
+
+```shell
+# add npm build script
+npm run build
+```

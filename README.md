@@ -6,3 +6,8 @@
 npm init -y
 npm install webpack webpack-cli --save-dev
 ```
+
+```shell
+# generate dist/main.js
+npx webpack
+```
